@@ -8,7 +8,7 @@ E-commerce sales and customer analysis using Python, SQL, and Power BI
 This project analyzes e-commerce transactional data to understand sales performance, customer behavior, and revenue drivers.
 
 ## Tools Used
-- Python (Pandas, NumPy)
+- Python (Pandas, Matplotlip , Plotly , Seaborn)
 - SQL
 - Power BI
 
