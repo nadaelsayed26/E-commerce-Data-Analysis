@@ -1,3 +1,5 @@
+Delete unused ecommerce_analysis.sql
+
 -- Total sales ( grand_total) for each year , ordered from newest to oldest
 SELECT SUM(grand_total) as total_sales , Year
 FROM project_dataset 
@@ -68,6 +70,7 @@ SELECT
 FROM payment_methods_grouped
 GROUP BY payment_method
 ORDER BY rank_by_sales;
+
 
 
 
